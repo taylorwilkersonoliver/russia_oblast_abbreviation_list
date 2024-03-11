@@ -1,0 +1,95 @@
+Name	Abbr	Px	Sx	CQ	ITU	Cont	Lat	Lon	Sunrise	Sunset
+Saint Petersburg	SP	R1	A,B,F,L,M	16	29	EU	59.6	30.3	4:23	15:53
+Leningradskaya obl.	LO	R1	C,D	16	29	EU	59.6	30.3	4:23	15:53
+Komi	KO	R1	I	16	20	EU	61.7	51.1	3:01	14:29
+Karelia	KL	R1	N	16	19	EU	61.8	34.4	4:08	15:35
+Arkhangelskaya obl.	AR	R1	O	16	19	EU	64.3	40.3	3:46	15:10
+Nenetsky AO	NO	R1	P	16	20	EU	67.8	53.1	3:39	14:56
+Vologodskaya obl.	VO	R1	Q,R,S	16	29	EU	59.1	39.9	3:44	15:15
+Novgorodskaya obl.	NV	R1	T	16	29	EU	58.3	31.3	4:18	15:50
+Pskovskaya obl.	PS	R1	W	16	29	EU	57.5	28.3	4:30	16:02
+Murmanskaya obl.	MU	R1	Z	16	19	EU	68.8	33.5	4:18	15:32
+Kaliningradskaya obl.	KA	R2	F,K	15	29	EU	55.1	20.5	5:00	16:35
+Moscow city	MA	R2,3,5	A,B,C	16	29	EU	55.5	38.2	3:49	15:23
+Moskovskaya obl.	MO	R2,3,5	D,H	16	29	EU	55.5	38.2	3:49	15:23
+Orlovskaya obl.	OR	R2,3,5	E	16	29	EU	52.6	46.1	3:16	14:53
+Moskovskaya obl.	MO	R3,5	F	16	29	EU	55.5	38.2	3:49	15:23
+Lipetskaya obl.	LP	R2,3,5	G	16	29	EU	52.4	39.6	3:42	15:19
+Tverskaya obl.	TV	R2,3,5	I	16	29	EU	56.5	35.9	3:59	15:32
+Voronezhskaya obl.	VR	R3,5	K	16	29	EU	51.4	39.2	3:43	15:21
+Smolenskaya obl.	SM	R2,3,5	L	16	29	EU	54.5	32.1	4:13	15:48
+Yaroslavskaya obl.	YR	R2,3,5	M	16	29	EU	57.4	39.9	3:43	15:16
+Kostromskaya obl.	KS	R2,3,5	N	16	29	EU	57.5	40.9	3:39	15:12
+Tulskaya obl.	TL	R2,3,5	P	16	29	EU	54.1	37.6	3:51	15:27
+Voronezhskaya obl.	VR	R2,3,5	O,Q	16	29	EU	51.4	39.2	3:43	15:21
+Tambovskaya obl.	TB	R2,3,5	R	16	29	EU	52.4	41.5	3:34	15:12
+Ryazanskaya obl.	RA	R2,3,5	S	16	29	EU	54.4	39.8	3:42	15:18
+Nizhegorodskaya obl.	NN	R2,3,5	T	16	29	EU	56.2	44.1	3:26	15:00
+Ivanovskaya obl.	IV	R2,3,5	U	16	29	EU	57.1	41.1	3:38	15:11
+Vladimirskaya obl.	VL	R2,3,5	V	16	29	EU	56.1	40.4	3:40	15:14
+Kurskaya obl.	KU	R2,3,5	W	16	29	EU	51.4	36.2	3:55	15:33
+Kaluzhskaya obl.	KG	R2,3,5	X	16	29	EU	54.3	36.3	3:56	15:32
+Bryanskaya obl.	BR	R2,3,5	Y	16	29	EU	53.2	34.3	4:04	15:40
+Belgorodskaya obl.	BO	R2,3,5	Z	16	29	EU	50.4	36.7	3:53	15:32
+Volgogradskaya obl.	VG	R4	A,B	16	29	EU	48.4	44.5	3:21	15:01
+Saratovskaya obl.	SA	R4	C,D	16	29	EU	51.3	46.1	3:16	14:54
+Penzenskaya obl.	PE	R4	F,G	16	29	EU	53.1	45.1	3:21	14:57
+Samarskaya obl.	SR	R4	H,I,K	16	30	EU	53.1	50.1	3:00	14:37
+Ulyanovskaya obl.	UL	R4	L,M	16	29	EU	54.2	48.4	3:08	14:43
+Kirovskaya obl.	KI	R4	N,O	16	29	EU	58.4	49.7	3:04	14:36
+Tatarstan	TA	R4	P,Q,R	16	29	EU	55.5	49.1	3:05	14:40
+Mary El	MR	R4	S,T	16	29	EU	56.6	47.9	3:11	14:44
+Mordoviya	MD	R4	U	16	29	EU	54.1	45.2	3:20	14:56
+Udmurtiya	UD	R4	W	16	30	EU	57.1	52.1	2:54	14:27
+Chuvashiya	CU	R4	Y,Z	16	29	EU	56.8	47.1	3:14	14:47
+Krasnodarskiy kray	KR	R6,7	A,B,C,D	16	29	EU	45.1	39.1	3:42	15:24
+Karachaevo-Cherkesiya	KC	R6,7	E	16	29	EU	43.8	41.8	3:30	15:13
+Stavropolskiy kray	ST	R6,7	F,G,H,T	16	29	EU	45.2	41.9	3:30	15:13
+Kalmykiya	KM	R6,7	I	16	29	EU	46.2	44.2	3:21	15:03
+Severnaya Osetiya	SO	R6,7	J	16	29	EU	43.1	44.7	3:18	15:02
+Crimea	RK	R6,7	K	16	29	EU	45.5	34.1	4:01	15:45
+Rostovskaya obl.	RO	R6,7	L,M,N	16	29	EU	47.1	39.7	3:40	15:21
+Chechnya	CN	R6,7	P	16	29	EU	43.2	44.8	3:18	15:02
+Ingushetiya	IN	R6,7	Q	16	29	EU	43.2	44.8	3:18	15:02
+Sevastopol	SE	R6,7	R	16	29	EU	44.4	33.3	4:04	15:48
+Astrakhanskaya obl.	AO	R6,7	U,V	16	29	EU	46.2	48.1	3:06	14:48
+Dagestan	DA	R6,7	W	16	29	EU	43.1	47.6	3:07	14:50
+Kabardino-Balkariya	KB	R6,7	X	16	29	EU	43.7	43.8	3:22	15:05
+Adygeya	AD	R6,7	Y	16	29	EU	44.4	40.1	3:37	15:20
+Donetsk People's Rep.	DO			16	29	EU	48.0	37.8	3:37	15:37
+Khersonskaya obl.	HE			16	29	EU	46.6	32.6	3:57	15:58
+Luhansk People's Rep.	LU			16	29	EU	48.6	39.3	3:31	15:31
+Zaporozhskaya obl.	ZP			16	29	EU	59.8	32.4	3:47	15:48
+Chelyabinskaya obl.	CB	R8,9	A,B	17	30	AS	55.1	61.2	2:17	13:52
+Sverdlovskaya obl.	SV	R8,9	C,D	17	30	AS	56.5	60.6	2:20	13:53
+Permskiy kray	PM	R8,9	F,G	17	30	EU	58.1	56.3	2:38	14:10
+Tomskaya obl.	TO	R8,9	H,I	18	31	AS	56.3	84.9	0:43	12:16
+Hanty-Mansiysky AO	HM	R8,9	J	17	20	AS	61.1	69.1	1:49	13:17
+Yamalo-Nenetsky AO	YN	R8,9	K	17	20	AS	66.7	66.5	2:03	13:23
+Tyumenskaya obl.	TN	R8,9	L	17	30	AS	57.1	65.5	2:01	13:33
+Omskaya obl.	OM	R8,9	M,N	17	30	AS	54.6	73.4	1:28	13:03
+Novosibirskaya obl.	NS	R8,9	O,P	18	31	AS	54.5	83.1	0:49	12:25
+Kurganskaya obl.	KN	R8,9	Q,R	17	30	AS	55.6	65.2	2:01	13:35
+Orenburgskaya obl.	OB	R8,9	S,T	16	30	AS	51.5	55.1	2:40	14:18
+Kemerovskaya obl.	KE	R8,9	U,V	18	31	AS	55.2	86.1	0:38	12:12
+Bashkortostan	BA	R8,9	W	16	30	AS	54.4	55.9	2:38	14:13
+Komi	KO	R8,9	X	16	20	EU	61.7	51.1	3:01	14:29
+Altaysky kray	AL	R8,9	Y	18	31	AS	53.2	83.8	0:46	12:22
+Altai Republic	GA	R8,9	Z	18	31	AS	51.9	86.1	0:36	12:14
+Krasnoyarskiy kray	KK	R0	A,B,H	18	32	AS	56.1	83.2	0:09	11:43
+Khabarovsky kray	HK	R0	C	19	33	AS	48.3	135.1	21:18	8:59
+Evreyskaya АО	EA	R0	D	19	33	AS	48.8	132.8	21:28	9:08
+Sakhalinskaya obl.	SL	R0	E,F	19	34	AS	46.9	142.5	20:48	8:30
+Magadanskaya obl.	MG	R0	I	19	24	AS	59.3	150.8	20:21	7:51
+Amurskaya obl.	AM	R0	J	19	33	AS	50.2	127.6	21:49	9:28
+Chukotsky AO	CK	R0	K	19	25	AS	64.5	177.3	18:38	6:01
+Primorsky kray	PK	R0	L,M,N	19	34	AS	43.1	131.9	21:30	9:13
+Buryatiya	BU	R0	O	18	32	AS	51.9	107.8	23:09	10:47
+Sakha	YA	R0	Q	19	23	AS	62.1	129.8	21:46	9:13
+Irkutskaya obl.	IR	R0	R,S,T	18	32	AS	52.2	104.3	23:23	11:01
+Zabaykalskiy kray	ZK	R0	U,V	18	32	AS	52.3	113.3	22:47	10:25
+Hakasia	HA	R0	W	18	31	AS	53.6	91.1	0:17	11:53
+Tuva	TU	R0	Y	23	32	AS	51.4	94.3	0:03	11:41
+Kamchatskiy kray	KT	R0	X,Z	19	35	AS	53.1	157.7	21:43	5:12
+Franz Josef Land	FJ	RI1	F	40	75	EU	80.1	56.2	3:30	14:23
+Antarctica	AN	RI1	A	13	69	AN	-62.1	-58.6		
